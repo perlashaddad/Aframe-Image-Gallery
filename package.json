@@ -1,0 +1,11 @@
+{
+  "name": "aframe-image-gallery",
+  "version": "1.0.0",
+  "description": "360 image VR loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Perla Haddad",
+  "license": "MIT"
+}
